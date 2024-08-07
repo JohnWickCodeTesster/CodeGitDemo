@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoAnChuyenNganh
+build_property.RootNamespace = DoAnChuyenNganh
+build_property.ProjectDir = I:\file hoc tap\DoAnChuyenNganh\DoAnChuyenNganh\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = I:\file hoc tap\DoAnChuyenNganh\DoAnChuyenNganh
+build_property._RazorSourceGeneratorDebug = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/QLAN/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxBTlxEYW5nS3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/QLAN/Diem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxBTlxEaWVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/QLAN/DiemDanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxBTlxEaWVtRGFuaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/QLAN/TrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUUxBTlxUcmFuZ0NodS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_LayoutDangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREYW5nS3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_LayoutDiem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREaWVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_LayoutDiemDanh.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREaWVtRGFuaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_LayoutTrangChu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUcmFuZ0NodS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[I:/file hoc tap/DoAnChuyenNganh/DoAnChuyenNganh/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xgtqblo4w3
